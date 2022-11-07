@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/MyLabel.qml</file>
+        <file>qml/MyToolTip.qml</file>
+        <file>qml/MyDrawer.qml</file>
+        <file>qml/MyMenu.qml</file>
+        <file>qml/MyDialog.qml</file>
+        <file>qml/MySeparator.qml</file>
+        <file>qml/MySwipeView.qml</file>
+        <file>qml/MyStackView.qml</file>
+        <file>qml/MyScrollView.qml</file>
+        <file>qml/MyGroupBox.qml</file>
+        <file>qml/MyTabBar.qml</file>
+        <file>qml/MyToolBar.qml</file>
+        <file>qml/MySwitch.qml</file>
+        <file>qml/MyRoundButton.qml</file>
+        <file>qml/MyDelayButton.qml</file>
+        <file>qml/MyCheckBox.qml</file>
+        <file>qml/MyRadioButton.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyBusyIndicator.qml</file>
+        <file>qml/MyProgressBar.qml</file>
+        <file>qml/MyComboBox.qml</file>
+        <file>qml/MySlider.qml</file>
+        <file>qml/MyTextField.qml</file>
+        <file>qml/SettingsDialog.qml</file>
+        <file>qml/AboutDialog.qml</file>
+        <file>qml/MyTextArea.qml</file>
+        <file>qml/MyTumbler.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/logo.jpg</file>
+        <file>images/logo2.jpg</file>
+        <file>images/logo3.jpg</file>
+    </qresource>
+</RCC>
