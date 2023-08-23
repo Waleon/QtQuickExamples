@@ -2,7 +2,7 @@
 
 Qt Quick Controls 2 中的一系列控件示例。
 
-![效果预览](https://raw.githubusercontent.com/Waleon/QMLExamples/master/assets/preview.png)
+![效果预览](assets/preview.png)
 
 # 更多精彩
 
