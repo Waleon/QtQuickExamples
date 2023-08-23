@@ -4,6 +4,8 @@ Qt Quick 中的一系列控件示例
 
 ![效果预览](assets/preview.png)
 
+QML 相关内容见：[细说 QML](https://waleon.blog.csdn.net/category_9267924.html)
+
 # 关于作者
 
 作者：[一去、二三里](https://waleon.blog.csdn.net/)，爱编程、爱学习、爱生活！
